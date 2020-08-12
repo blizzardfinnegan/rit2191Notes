@@ -1,0 +1,8 @@
+EEET-211-02
+Electronics I
+Professor: Richard Cliver
+Semester: 2191 (2019 Fall)
+Time Slot: Unknown
+
+See other classes (i.e. Electronics II in the 2195 repository also owned by this user) for description of Professor Cliver. TL:DR, Wonderful guy, 11/10, would always recommend.
+This course focuses heavily on transistors, and the math behind them. All equations should be memorized, except those handed out in class, which will be allowed on exams. If you like knowing the nitty gritty of exactly what goes on with electronics, you will enjoy this class.

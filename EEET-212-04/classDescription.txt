@@ -1,0 +1,9 @@
+EEET-212-04
+Electronics I Lab
+Professor: Richard Cliver
+Semester: 2191 (2019 Fall)
+Time Slot: Unknown
+
+See explanation on Cliver himself in other repos owned by this user. (i.e. 2195 EEET-221 (Electronics 2)).
+This course is very experimental, so you have to be good with your hands. If you understand how to work with basic circuits, and how DIP parts work, then you should be good to go.
+No additional parts are needed for this course, although parts from previous courses.
